@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Siam! 👋
 
-<!--
-**siam-sec/siam-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student
+📍 Sylhet, Bangladesh
 
-Here are some ideas to get you started:
+🔐 Interested in Cybersecurity and Information Security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning C++ and Computer Science fundamentals.
+
+🌱 Exploring:
+- Programming and Problem Solving
+- Computer Networks
+- Cybersecurity Fundamentals
+- Software Development
+
+### Current Goal
+Building strong foundations and learning through practical projects.
+
+### Tech Stack
+Currently learning: C++
